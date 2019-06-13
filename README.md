@@ -1,2 +1,3 @@
-# javascript-request
-Template to send javascript request
+# Template for javascript request
+
+Skeletons to be used to send request via javascript
